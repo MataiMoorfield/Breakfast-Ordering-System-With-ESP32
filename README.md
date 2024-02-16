@@ -11,7 +11,7 @@ A simple web based breakfast ordering system with the ESP32 for cafés. Full vid
 
 Clone the folder:
 ```
-git clone https://github.com/MataiMoorfield/Breakfast-Ordering-System-with-ESP32.git
+git clone https://github.com/MataiMoorfield/Breakfast-Ordering-System-With-ESP32.git
 ```
 Install the necessary libraries:
 ```
